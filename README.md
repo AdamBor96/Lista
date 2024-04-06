@@ -19,4 +19,5 @@ This is a list of students containing data such as: names, surnames, subjects, p
 <li>Download the files, then extract files into a folder and launch "Lista.exe".</li>
 
 <b>[Application view]</b>
+<img>https://github.com/AdamBor96/Lista/issues/1#issue-2229272624</img>
 
