@@ -1,4 +1,4 @@
-**[General info]**
+<p>**[General info]**</p>
 <details>
 <summary>Click here to see general information about <b>Project</b>!</summary>
 This is a list of students containing data such as: names, surnames, subjects, points and grades. The list can be modified by adding a new student and deleting it.
@@ -15,4 +15,5 @@ This is a list of students containing data such as: names, surnames, subjects, p
 </ul>
 <b>[Setup]</b>
 <li>Download the files, then extract files into a folder and launch "Lista.exe".</li>
-* [Application view](#application-view)
+<b>[Application view]</b>
+
