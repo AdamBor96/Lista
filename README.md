@@ -13,6 +13,6 @@ This is a list of students containing data such as: names, surnames, subjects, p
 <li>Abstract class</li>
 <li>Saving data to files</li>
 </ul>
-**[Setup]**
+<b>[Setup]</b>
 <li>Download the files, then extract files into a folder and launch "Lista.exe".</li>
 * [Application view](#application-view)
