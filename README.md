@@ -20,4 +20,5 @@ This is a list of students containing data such as: names, surnames, subjects, p
 
 <b>[Application view]</b>
 <img src="https://github.com/AdamBor96/Lista/assets/166223296/ac57ba6e-55c2-4d45-ac4c-15c64718ef9c.png" width=”50%” height=”50%”></img>
+<img src="https://github.com/AdamBor96/Lista/assets/166223296/b58476de-b660-4027-be20-46a994a599c1.png" width=”50%” height=”50%”></img>
 
