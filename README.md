@@ -19,5 +19,5 @@ This is a list of students containing data such as: names, surnames, subjects, p
 <li>Download the files, then extract files into a folder and launch "Lista.exe".</li>
 
 <b>[Application view]</b>
-<img>[https://github.com/AdamBor96/Lista/issues/1#issue-2229272624]</img>
+<img> src="https://github.com/AdamBor96/Lista/assets/166223296/ac57ba6e-55c2-4d45-ac4c-15c64718ef9c.png" width=”50%” height=”50%”></img>
 
